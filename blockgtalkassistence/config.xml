@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockgtalkassistence</name>
+	<displayName><![CDATA[Bloque para soporte de Google Talk]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[A&ntilde;ade un bloque para que los clientes puedan hablar con el personal de la tienda.]]></description>
+	<author><![CDATA[Carlos Coronado]]></author>
+	<tab><![CDATA[Blocks]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>facebook_tabcomentarios</name>
+	<displayName><![CDATA[A&ntilde;ade comentarios de Facebook en los Productos.]]></displayName>
+	<version><![CDATA[0.2]]></version>
+	<description><![CDATA[A&ntilde;ade comentarios con Facebook en tus productos en una pesta&ntilde;a.]]></description>
+	<author><![CDATA[Inform&aacute;tica Cano Granada]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

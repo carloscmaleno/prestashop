@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockfanpage</name>
+	<displayName><![CDATA[Bloque de Fans de Facebook]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[]]></description>
+	<author><![CDATA[Carlos Coronado]]></author>
+	<tab><![CDATA[Blocks]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

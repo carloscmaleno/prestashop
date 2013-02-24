@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockcopyright</name>
+	<displayName><![CDATA[Bloque Copyright]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Añade un bloque de copyright al pie de la página]]></description>
+	<author><![CDATA[Informática Cano]]></author>
+	<tab><![CDATA[cano]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
